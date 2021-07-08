@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31423.177
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersAPI.NET", "NumbersAPI.NET\NumbersAPI.NET.csproj", "{D379118B-09F2-4694-B3D3-DE8B112740C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersAPI.NET Tests", "NumbersAPI.NET Tests\NumbersAPI.NET Tests.csproj", "{F550B6EC-607F-4711-8D55-931FCDA76BE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D379118B-09F2-4694-B3D3-DE8B112740C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D379118B-09F2-4694-B3D3-DE8B112740C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D379118B-09F2-4694-B3D3-DE8B112740C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F550B6EC-607F-4711-8D55-931FCDA76BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F550B6EC-607F-4711-8D55-931FCDA76BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F550B6EC-607F-4711-8D55-931FCDA76BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F550B6EC-607F-4711-8D55-931FCDA76BE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
