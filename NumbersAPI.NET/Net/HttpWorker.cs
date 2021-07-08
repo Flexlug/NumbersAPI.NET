@@ -31,7 +31,7 @@ namespace NumbersAPI.NET.Net
 {
     internal class HttpWorker
     {
-        private const string BASE_URL = "https://numbersapi.com";
+        private const string BASE_URL = "http://numbersapi.com";
 
         private readonly HttpClient client;
 

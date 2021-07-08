@@ -42,9 +42,12 @@ namespace NumbersAPI.NET.Models
         public int Number { get; set; }
 
         [JsonPropertyName("year")]
-        public string Type { get; set; }
+        public int Year { get; set; }
 
         [JsonPropertyName("date")]
         public string Date { get; set; }
+
+        [JsonPropertyName("type")]
+        public string Type { get; set; }
     }
 }

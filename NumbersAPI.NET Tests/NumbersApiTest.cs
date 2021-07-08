@@ -35,7 +35,7 @@ namespace NumbersAPI.NET_Tests
 {
     public class NumbersApiTest
     {
-        private const string BASE_URL = "https://numbersapi.com";
+        private const string BASE_URL = "http://numbersapi.com";
 
         [SetUp]
         public void Setup() { }
